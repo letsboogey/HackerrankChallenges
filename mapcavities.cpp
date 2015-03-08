@@ -14,7 +14,7 @@ int main() {
     //get map size from STDIN
     cin >> map_size ;
 
-    //build map usig 2D array
+    //build map using 2D array
     int map[map_size][map_size];
 
     for(row = 0 ; row < map_size ; row++){
