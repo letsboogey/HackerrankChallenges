@@ -1,4 +1,4 @@
-# HackerrankChallenges
+# Hackerrank Challenges
 
 ### 1. Cavity Map
 
